@@ -1,0 +1,6 @@
+framework module Pods_Amigo_AmigoUITests {
+  umbrella header "Pods-Amigo-AmigoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
